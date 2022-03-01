@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Welcome to my Github page!
+I am Ben Dickson from Arlington, VA. I go to school at Lehigh University in Bethlehem, PA, where I am double majoring in International Relations and Journalism. I am an avid ultimate frisbee player, and I am the assistant captain of the Lehigh Men's Ultimate Frisbee A team. In my free time, I love to be outside and stay updated on current events.
 
-You can use the [editor on GitHub](https://github.com/bpd223/bpd223.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://github.com/bpd223/bpd223.github.io/blob/main/ben.png?raw=true" />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Using Canva to Show NFL Playoff QBs' Passing Scores
+I am a very passionate NFL fan and hope to be a sports journalist when I am older, so I chose to look at this year's NFL Playoff QB's and compare them by using their passer scores. Passer score uses data from every pass attempt by a quarterback and analyzes it, giving it a score from 50 (lowest) to 99 (highest). The interesting finding in this infographic is that most quarterbacks were only separated by a small margin. However, there was one huge outlier, which was Steelers' quarterback Ben Roethlisberger. This was an interesting find, as he was harshly criticized during the season. The data was provided by [ESPN](https://www.nfl.com/news/ranking-the-14-playoff-quarterbacks-based-on-ngs-new-passing-score-metric)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bpd223/bpd223.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img src="https://github.com/bpd223/bpd223.github.io/blob/main/nflqb.png?raw=true" />
