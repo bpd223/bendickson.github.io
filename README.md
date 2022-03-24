@@ -20,5 +20,5 @@ I am a very passionate NFL fan and hope to be a sports journalist when I am olde
 ###### NFL Interception Leaders
 ![NFL Inrterception Leaders](https://github.com/bpd223/bpd223.github.io/blob/main/Interceptions.png?raw=true/Interceptions.png)
 
-####### Lehigh Colleges' Student Enrollment (2016-2020)
+###### Lehigh Colleges' Student Enrollment (2016-2020)
 ![Lehigh Colleges' Student Enrollment (2016-2020)](https://github.com/bpd223/bpd223.github.io/blob/main/student.png?raw=true/student.png)
