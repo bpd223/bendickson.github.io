@@ -28,4 +28,4 @@ The AFC North is clearly one of the most competitive divisions in the NFL, as sh
 ![AFC North Team Win Totals (2016-2020)](https://github.com/bpd223/bpd223.github.io/blob/main/AFC.png?raw=true/AFC.png)
 
 ###### Best Cycling Cities 2019
-![Best Cycling Cities 2019](<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1T-1S16niOeC0W9xpBZ6DTqsl6ZE6MrmM&ehbc=2E312F" width="640" height="480"></iframe>)
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1T-1S16niOeC0W9xpBZ6DTqsl6ZE6MrmM&ehbc=2E312F" width="640" height="480"></iframe>)
