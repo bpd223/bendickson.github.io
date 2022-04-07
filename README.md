@@ -26,3 +26,6 @@ I am a very passionate NFL fan and hope to be a sports journalist when I am olde
 ###### AFC North Team Win Totals (2016-2020)
 The AFC North is clearly one of the most competitive divisions in the NFL, as shown in this chart. These teams are known for playing tough and physical football and always giving it their all on the field. As seen in the chart, the biggest movers are the CLeveland Browns. They had a win total 0f 0 at one point, moving all the way up to 11 a couple of years late.
 ![AFC North Team Win Totals (2016-2020)](https://github.com/bpd223/bpd223.github.io/blob/main/AFC.png?raw=true/AFC.png)
+
+###### Best Cycling Cities 2019
+![Best Cycling Cities 2019](<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1T-1S16niOeC0W9xpBZ6DTqsl6ZE6MrmM&ehbc=2E312F" width="640" height="480"></iframe>)
