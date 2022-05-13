@@ -26,7 +26,7 @@ This graph depicts undergraduate enrollment in Lehigh's different undergraduate 
 ###### NFL Interception Leaders
 This graph depicts the NFL's 2021-2022 season interception leaders. This data was provided by the NFL. Matthew Stafford and Trevor Lawrence led the NFL this season with 17 interceptions a piece. However, Lawrence actually played far fewer games, as his team did not make the playoffs. Because of this, Lawrence had the worst interception to game ratio in the league.
 
-![NFL Inrterception Leaders](https://github.com/bpd223/bpd223.github.io/blob/main/Interceptions.png?raw=true/Interceptions.png)
+![NFL Interception Leaders](https://github.com/bpd223/bpd223.github.io/blob/main/Interceptions.png?raw=true/Interceptions.png)
 
 ###### Lehigh Colleges' Student Enrollment (2016-2020)
 This graph depicts enrollment in Lehigh's different undergraduate colleges over the past five years. This data was orivuded by Lehigh University. Unsurprisingly, the engineering school is in the lead of student population. However, that lead is dwindling, as Lehigh diversifies the educational programs that they offer.
