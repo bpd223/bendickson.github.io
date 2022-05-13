@@ -34,7 +34,7 @@ This graph depicts enrollment in Lehigh's different undergraduate colleges over 
 ![Lehigh Colleges' Student Enrollment (2016-2020)](https://github.com/bpd223/bpd223.github.io/blob/main/student.png?raw=true/student.png)
 
 ###### AFC North Team Win Totals (2016-2020)
-The AFC North is clearly one of the most competitive divisions in the NFL, as shown in this chart. These teams are known for playing tough and physical football and always giving it their all on the field. As seen in the chart, the biggest movers are the CLeveland Browns. They had a win total 0f 0 at one point, moving all the way up to 11 a couple of years late. Data source: ![ESPN](https://www.espn.com/nfl/standings/_/season/2020)
+The AFC North is clearly one of the most competitive divisions in the NFL, as shown in this chart. These teams are known for playing tough and physical football and always giving it their all on the field. As seen in the chart, the biggest movers are the CLeveland Browns. They had a win total 0f 0 at one point, moving all the way up to 11 a couple of years late. Data source: [ESPN](https://www.espn.com/nfl/standings/_/season/2020)
 ![AFC North Team Win Totals (2016-2020)](https://github.com/bpd223/bpd223.github.io/blob/main/AFC.png?raw=true/AFC.png)
 
 ###### Best Cycling Cities 2019
