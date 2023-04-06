@@ -34,6 +34,10 @@ So, why does this divide between colleges exist? In the college of Arts and Scie
 
 Another professor, who teaches a class heavy in writing, said, “Writing is about discovery, not about translating pre-formed ideas to words. It is by means of writing that you discover what you think, or why what you thought doesn't quite work, or a facet of an idea that you hadn't thought about before. Generative AI replaces the writing process. That’s a problem.”
 
+Professor Bauknight, an English professor, is more interested in how Generative AI tools can be used to help learners, rather than replace the writing process. He has shared the tool in class with his English 002 students and mentions in the syllabus, “you are not allowed to use [Generative AI] technologies to write your assignments for you.” However, students may use these tools, “in other ways that you find helpful for your learning process (brainstorming, for example),” as long as students cite the tool and explain how it was used.
+
+Bauknight also acknowledges a ban on Generative AI noting that, “there are always going to be restrictions in schools that won’t be there in the world, but these restrictions are necessary.” For some disciplines, the use of Generative AI might not be compatible with learning goals. 
+
 In the College of Engineering, while the results of the survey show that Generative AI is overall being more allowed than in other colleges at Lehigh, the free response sections of the survey reveal that it may not be because of how effective these tools are. Many professors from the Engineering department seemed to believe that AI tools still had far to go and that they were not too useful for their field yet, meaning that they really had no effect on their classes.
 
 “I do not implement its use; I just don't fight it,” said one professor from the Engineering department, while another said, “I don't generally operate by prohibiting, but I have been showing students how AI gets things wrong in various ways.”
