@@ -1,4 +1,3 @@
-
 ## Group Data Project: ChatGPT and other Generative AI tools' effect on academia at Lehigh
 In an email to Lehigh faculty earlier this semester, Provost Nathan Urban said, “In my view, outside of special cases, attempting to ban tools like ChatGPT would be short sighted and likely impossible to enforce.” 
 
