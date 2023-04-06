@@ -61,6 +61,8 @@ Out of the faculty interviewed, only just over 31% of respondents said that they
 
 Of professors who were surveyed, the most common ways that evaluation methods were being changed were with an increase in oral examinations, higher percentage of class grades decided by participation, and an increase in in-class writing assignments.
 
+The increase in in-class writing assignments as a solution worries Professor Bauknight. He believes that the writing process takes time and students need that time to be creative and effectively learn from their writing. He mentions an exercise he does with his Creative Writing students in class where he says, “Quick! Be creative!” and has them write in class. Needless to say, this does not work and stresses out students.
+
 Engineering professors again seemed unworried about evaluation, with one faculty member saying, “Most of the deliverables for my class are physical output, not written output, thus there is little fear AI tools can be used to"cheat "."
 
 One of the last questions on the survey directly addressed Provost Urban’s message of Lehigh being a leader in and wanting to plant a flag in AI. When respondents were prompted with the question “Lehigh’s provost has expressed Lehigh’s desire to become a leader in Generative AI and encourage its use in the classroom. Do you think this is a good idea?,” only about 45% of respondents agreed with the provost’s message.
