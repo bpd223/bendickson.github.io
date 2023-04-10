@@ -133,6 +133,8 @@ Snyder said that while newer versions, “might be better on the surface, it is 
 
 In an open repository documenting errors by ChatGPT, one user found a way to “trick” the newer version of ChatGPT into revealing bias, by asking it to write python code to decide if a person should be tortured based on age, sex, ethnicity, and nationality.
 
+![ScreenShot](https://github.com/bpd223/bpd223.github.io/blob/main/isabel%20picture.png)
+
 The takeaway? If you are less than 18, Caucasian and American, or female you should not be tortured. And if you are anyone else, ChatGPT generated code believes you should be tortured.
 
 Although Provost Urban expressed concern about ethical issues in Generative AI, at the time of our faculty survey at least one faculty member did not see that sentiment in his emails, and responded: “There has been no public discussion of how these tools amplify bias--and the email from the Provost showed that this was not part of his thinking either. I would like to know how ChatGPT relates to the University's commitment to diversity, equity, and inclusion.”
