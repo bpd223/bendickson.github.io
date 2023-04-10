@@ -105,6 +105,8 @@ Generative AI has also sparked what an article from Stanford Education calls “
 The debate surrounding Generative AI in the College of Arts and Sciences highlights the need for clear guidelines and faculty support. As students navigate the opportunities and challenges presented by AI, the focus should be on harnessing its potential for learning, while preserving academic integrity and preparing students for future job opportunities. By working together, students and faculty, in and outside of the classroom, can take action to use Generative AI as a powerful tool, rather than just another cheating tool. 
 
 ### Part 3 (Isabel): Ethics and does the community want to be a leader?
+![ScreenShot](https://github.com/bpd223/bpd223.github.io/blob/main/isabel%20drawing.png)
+
 Lehigh claims to want to become a leader in Artificial Intelligence, but there are many ethical concerns that must be addressed and recognized. ChatGPT, a Generative AI tool that generates text in response to prompts from the user, has recently come under fire for many different ethical concerns including spreading misinformation and encoding gender, racial, ethnic, and ability bias.
 
 Because ChatGPT does not have any kind of world model, it can “hallucinate” and generate “facts” that are nonsense. Lehigh students and faculty are aware of this. One freshman described a scenario in one of their Psychology classes where the professor used ChatGPT to find references for a topic. The student said that of the 5 sources that were generated, 3 were fake. 
