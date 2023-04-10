@@ -104,7 +104,9 @@ Students want more guidance from faculty and a clause in every syllabus that cla
 
 Generative AI has also sparked what an article from Stanford Education calls “an existential motivation crisis” among students, who are grappling with what skills they will need in the future. They are concerned about the potential impact of AI on their careers and how they will work alongside these tools. From survey data, 59% of Lehigh students think Generative AI will have an impact on their future career, with 30% of students being unsure. In the face of this uncertainty, some students believe that success will ultimately come down to who can use AI most effectively.
 
-The debate surrounding Generative AI in the College of Arts and Sciences highlights the need for clear guidelines and faculty support. As students navigate the opportunities and challenges presented by AI, the focus should be on harnessing its potential for learning, while preserving academic integrity and preparing students for future job opportunities. By working together, students and faculty, in and outside of the classroom, can take action to use Generative AI as a powerful tool, rather than just another cheating tool. 
+The debate surrounding Generative AI in the College of Arts and Sciences highlights the need for clear guidelines and faculty support. As students navigate the opportunities and challenges presented by AI, the focus should be on harnessing its potential for learning, while preserving academic integrity and preparing students for future job opportunities. By working together, students and faculty, in and outside of the classroom, can take action to use Generative AI as a powerful tool, rather than just another cheating tool.
+
+![ScreenShot](https://github.com/bpd223/bpd223.github.io/blob/main/Michael%20graph%204.png)
 
 ### Part 3 (Isabel): Ethics and does the community want to be a leader?
 ![ScreenShot](https://github.com/bpd223/bpd223.github.io/blob/main/isabel%20drawing.png)
