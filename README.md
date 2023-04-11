@@ -90,7 +90,7 @@ Generative AI has become an increasingly popular tool among students for various
 
 Researchers for the Brown and White sent out an anonymous, voluntary survey to Lehigh students to gauge student perspectives on ChatGPT and Generative AI. We received 86 responses, with about 80% of these responses from the College of Arts and Sciences. The findings show that the majority of respondents are not engaging with Generative AI at all.
 
-![ScreenShot](https://github.com/bpd223/bpd223.github.io/blob/main/Michael%20graph%201.jpg?raw=true)
+![ScreenShot](https://github.com/bpd223/bpd223.github.io/blob/main/Michael%20graph%201.png?raw=true)
 
 Of survey respondents, 77% of students have not used ChatGPT or other Generative AI tools, while 90% of students do not use Generative AI tools for class. Despite this, roughly 63% of participants view Generative AI as a useful tool, while others express concern about its potential to compromise academic integrity. These concerns are echoed by the Provost, who has also shared apprehensions about not knowing what constitutes cheating when using AI.
 
