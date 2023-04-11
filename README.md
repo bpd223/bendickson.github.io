@@ -98,7 +98,7 @@ During an interview with Dean Dr. Flowers, he acknowledged the benefits of using
 
 In order to understand why so many students look away from using ChatGPT, we should understand that several factors exist, such as a lack of awareness and ethical concerns. Students who are not familiar with AI technologies might not know that such technology exists, so it is important to enabling students to participate in AI-focused events. With the potential of breaking academic integrity, students might feel discouraged to use these tools. It is essential for the university to focus on educating students about responsible AI usage, which can help alleviate some of their concerns, allowing for more widespread use among students.
 
-![ScreenShot](https://github.com/bpd223/bpd223.github.io/blob/main/michael%20graph%202.png)
+![ScreenShot](https://github.com/bpd223/bpd223.github.io/blob/main/michael%20graph%202.png?raw=true)
 
 Despite the Provost’s messages encouraging the use of Generative AI in the classroom, students report that 70% of professors have not frequently addressed or mentioned ChatGPT or other Generative AI tools in their classes and that 90% of their classes have not allowed its use. This lack of communication between faculty and students has contributed to the confusion and concerns surrounding the potential for cheating with AI.
 
@@ -110,7 +110,7 @@ In a recent interview with Dr. Papadimitriou, a management professor from the Co
 
 The takeaway? More guidance from faculty and a clause in every syllabus that clarifies how Generative AI should be used in the classroom. As Dean Flowers noted, faculty should be more clear when setting the boundary of ChatGPT use in class. Many feel that the lack of clear-cut rules has students walking a fine line between using a useful tool and potentially cheating. They also hope that faculty will become more invested in understanding how AI can help students, rather than focusing solely on concerns about cheating. As one student said, “Trying to fight against the use of AI like ChatGPT would be difficult. Any professor who refuses to accept ChatGPT is wasting their energy.”
 
-![ScreenShot](https://github.com/bpd223/bpd223.github.io/blob/main/Michael%20graph%204.png)
+![ScreenShot](https://github.com/bpd223/bpd223.github.io/blob/main/Michael%20graph%204.png?raw=true)
 
 Generative AI has also sparked what an article from Stanford Education calls “an existential motivation crisis” among students, who are grappling with what skills they will need in the future. They are concerned about the potential impact of AI on their careers and how they will work alongside these tools. From survey data, 59% of Lehigh students think Generative AI will have an impact on their future careers, with 30% of students being unsure. In the face of this uncertainty, many believe that success will come down to effectively using AI tools, highlighting the importance of addressing these concerns in the educational context.
 
@@ -125,7 +125,7 @@ Nevertheless, as one student noted, it's crucial to be cautious about how big ca
 The debate surrounding Generative AI in the College of Arts and Sciences highlights the need for clear guidelines and faculty support. As students navigate the opportunities and challenges presented by AI, the focus should be on harnessing its potential for learning, while preserving academic integrity and preparing students for future job opportunities. By working together, students and faculty, in and outside of the classroom, can take action to use Generative AI as a powerful tool, rather than just another everyday cheating tool. 
 
 ### Part 3 (Isabel): Ethics and does the community want to be a leader?
-![ScreenShot](https://github.com/bpd223/bpd223.github.io/blob/main/isabel%20drawing.png)
+![ScreenShot](https://github.com/bpd223/bpd223.github.io/blob/main/isabel%20drawing.png?raw=true)
 
 Emails from Lehigh’s Provost Nathan Urban express a desire for Lehigh to become a leader in Artificial Intelligence, but recent media has brought to light many different ethical concerns surrounding Generative AI tools. ChatGPT, a Generative AI tool that generates text in response to prompts from the user, has recently come under fire for many different ethical concerns, including spreading misinformation and encoding gender, racial, ethnic and ability bias.
 
@@ -153,7 +153,7 @@ Snyder said that while newer versions “might be better on the surface, it is n
 
 In an open repository documenting errors by ChatGPT, one user found a way to “trick” the newer version of ChatGPT into revealing bias by asking it to write Python code to decide if a person should be tortured based on age, sex, ethnicity, and nationality.
 
-![ScreenShot](https://github.com/bpd223/bpd223.github.io/blob/main/isabel%20picture.png)
+![ScreenShot](https://github.com/bpd223/bpd223.github.io/blob/main/isabel%20picture.png?raw=true)
 
 ChatGPT determined that if you are less than 18, Caucasian and American, or female, you should not be tortured. And if you are anyone else, ChatGPT-generated code believes you could be tortured.
 
