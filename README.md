@@ -125,7 +125,7 @@ Nevertheless, as one student noted, it's crucial to be cautious about how big ca
 The debate surrounding Generative AI in the College of Arts and Sciences highlights the need for clear guidelines and faculty support. As students navigate the opportunities and challenges presented by AI, the focus should be on harnessing its potential for learning, while preserving academic integrity and preparing students for future job opportunities. By working together, students and faculty, in and outside of the classroom, can take action to use Generative AI as a powerful tool, rather than just another everyday cheating tool. 
 
 ### Part 3 (Isabel): Ethics and does the community want to be a leader?
-![ScreenShot](https://github.com/bpd223/bpd223.github.io/blob/main/isabel%20drawing.png?raw=true)
+![ScreenShot](https://github.com/bpd223/bpd223.github.io/blob/main/isabeldrawing1.png?raw=true)
 
 Emails from Lehigh’s Provost Nathan Urban express a desire for Lehigh to become a leader in Artificial Intelligence, but recent media has brought to light many different ethical concerns surrounding Generative AI tools. ChatGPT, a Generative AI tool that generates text in response to prompts from the user, has recently come under fire for many different ethical concerns, including spreading misinformation and encoding gender, racial, ethnic and ability bias.
 
