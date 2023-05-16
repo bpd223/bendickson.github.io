@@ -181,10 +181,3 @@ While Snyder agreed with Provost Urban in that it is short-sighted to ban the to
 And perhaps more importantly, what will we do about the answer? Snyder said, “These are not just technical problems. They are societal problems. Those bad biases, baked into the technology because that's just that problem. That bias exists in society. And so the relationship between society and technology is part of the problem. And that would have to be part of the answer, part of the solution.” How can Lehigh become part of the solution while engaging with Generative AI tools?
 
 
----
-description: just a subpage
-...
-
-#My Subpage
-content to be seen
-----
